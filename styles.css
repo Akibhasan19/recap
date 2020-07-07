@@ -1,0 +1,15 @@
+ul{
+    text-align: center;
+    margin-top: 20px;
+    background: teal;
+    padding: 20px;
+    color: #fff;
+    font-family: sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+li{
+    display: inline-block;
+    margin: 0 50px;
+    font-size: 20px;
+    font-weight: bold;
